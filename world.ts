@@ -1,0 +1,1 @@
+console.log("Hi from MacBook Pro M1!")
