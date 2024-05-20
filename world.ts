@@ -5,3 +5,5 @@ console.log("Checking if everything works ok after setting up powerlevel10k on M
 console.log("committing with gpg key from terminal")
 
 console.log("Committing from Github Desktop")
+
+console.log("After deleting the GPG passkey from Keychain Access")
