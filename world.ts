@@ -7,3 +7,4 @@ console.log("committing with gpg key from terminal")
 console.log("Committing from Github Desktop")
 
 console.log("After deleting the GPG passkey from Keychain Access")
+console.log("Yay! It worked!. Now I'm trying to see what if I enter wrong one.")
