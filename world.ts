@@ -9,3 +9,5 @@ console.log("Committing from Github Desktop")
 console.log("After deleting the GPG passkey from Keychain Access")
 console.log("Yay! It worked!. Now I'm trying to see what if I enter wrong one.")
 console.log("Forgot that we have to wait couple of minutes before it asks for the passkey again.")
+
+console.log("This is me committing from github mobile app..🔥")
